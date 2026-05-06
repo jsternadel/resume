@@ -33,7 +33,7 @@ intermodal logistics. By deciphering raw NMEA 0183 sentences and applying spheri
 achieved 99% coordinate accuracy in high interference environments.
 
 ### Professional Experience
-**T-MOBILE** (Formerly Sprint) | Overland Park, KS | 2013 to 2026
+#### T-MOBILE (Formerly Sprint) | Overland Park, KS | 2013 to 2026 ####
 
 **Senior Software Engineer** (DevOps & Tools) 2020 to 2026  
 Embedded within Tools Team to assist with architectural duties and build APIs that connect proprietary systems to
@@ -85,3 +85,14 @@ testing.
 - Wrote XML scripts for Slate automation testing of mobile devices.
 - Worked with OEM partners, troubleshooting issues with Slate Device Testing platform.
 
+
+**MO-KAN CONTAINER SERVICES** | Kansas City, KS | 2011 to 2012
+
+**System Administrator**
+- Managed all technology operations across 3 onsite locations, keeping systems stable and responsive for daily
+business needs.
+- Planned and executed full network modernization, replacing aging G3 servers with VMware-based virtual
+infrastructure and scalable iSCSI SAN.
+- Cut IT downtime by more than 90% through shift to virtualized, redundant systems.
+- Reduced IT payroll costs by nearly 18% by upgrading infrastructure and implementing automated, failover-ready
+environments.
