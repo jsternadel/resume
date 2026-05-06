@@ -85,7 +85,7 @@ testing.
 - Wrote XML scripts for Slate automation testing of mobile devices.
 - Worked with OEM partners, troubleshooting issues with Slate Device Testing platform.
 
-  
+
 #### MO-KAN CONTAINER SERVICES | Kansas City, KS | 2011 to 2012 ####
 
 **System Administrator**
@@ -97,7 +97,7 @@ infrastructure and scalable iSCSI SAN.
 - Reduced IT payroll costs by nearly 18% by upgrading infrastructure and implementing automated, failover-ready
 environments.
 
-  
+
 ### Additional Relevant Experience ###
 
 **Trucking Central** | Weston, MO, | Software Consultant (Contract)
@@ -107,4 +107,26 @@ Planned, developed, and tested Android based GPS solutions for the intermodal su
 Troubleshot and fixed Nextel devices for first responders and construction businesses, listened to client needs, and
 leveraged emerging technologies to find solutions for those needs.
 
+
 ### Community Impact & Leadership ###
+
+**Seek and Serve** | Founder | 2026-Present
+- Mission Support: Provide technical and logistical guidance to the parent 501(c)(3) organization, assisting in the
+coordination of community outreach programs and resource allocation.
+
+**33meals.org** (Subsidiary of Seek and Serve) | Founder/Lead Volunteer | 2026-Present
+- Organizational Launch: Spearheaded the launch and incorporation of 33meals.org as a dedicated subsidiary to
+address food insecurity through scalable, data-driven, distribution models.
+- Operational Infrastructure: Managed the full technical and administrative setup, including domain
+registration, digital architecture, and regulatory filings to ensure high-integrity non-profit operations.
+- Strategic Development: Designed a streamlined logistics model to optimize charitable food delivery, applying
+enterprise efficiency principles to humanitarian service.
+
+### Education ###
+- Associate of Arts (AA), Graphic Design, Johnson County Community College, Overland Park, KS
+
+**Core Technical Index:** TypeScript, Node.js, JavaScript, PHP, C#, .NET 8, .NET Core, Java, Angular, Node-RED, Ansible,
+SQL, PostgreSQL, Jira API, Atlassian SDK, Systems Architecture, Microservices, Fluent API Design, API Gateway,
+Developer Experience (DevEx), Platform Abstractions, DevOps, CI/CD, Infrastructure as Code (IaC), Automation,
+DevSecOps, SRE, Distributed Systems, Spherical Geometry, Database Management (US Patent #10,366,066), Agile,
+Scrum, The Phoenix Project/Unicorn Project Philosophies.
