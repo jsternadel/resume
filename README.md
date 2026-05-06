@@ -85,8 +85,8 @@ testing.
 - Wrote XML scripts for Slate automation testing of mobile devices.
 - Worked with OEM partners, troubleshooting issues with Slate Device Testing platform.
 
-
-**MO-KAN CONTAINER SERVICES** | Kansas City, KS | 2011 to 2012
+  
+#### MO-KAN CONTAINER SERVICES | Kansas City, KS | 2011 to 2012 ####
 
 **System Administrator**
 - Managed all technology operations across 3 onsite locations, keeping systems stable and responsive for daily
@@ -96,3 +96,15 @@ infrastructure and scalable iSCSI SAN.
 - Cut IT downtime by more than 90% through shift to virtualized, redundant systems.
 - Reduced IT payroll costs by nearly 18% by upgrading infrastructure and implementing automated, failover-ready
 environments.
+
+  
+### Additional Relevant Experience ###
+
+**Trucking Central** | Weston, MO, | Software Consultant (Contract)
+Planned, developed, and tested Android based GPS solutions for the intermodal supply chain industry.
+
+**INNOVATIVE SOLUTIONS** | Lenexa, KS, | Mobile Solutions Technician
+Troubleshot and fixed Nextel devices for first responders and construction businesses, listened to client needs, and
+leveraged emerging technologies to find solutions for those needs.
+
+### Community Impact & Leadership ###
