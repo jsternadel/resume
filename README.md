@@ -34,7 +34,7 @@ achieved 99% coordinate accuracy in high interference environments.
 ### Professional Experience
 **T-MOBILE** (Formerly Sprint) | Overland Park, KS | 2013 to 2026
 
-**Senior Software Engineer** (DevOps & Tools) 2020 to 2026
+**Senior Software Engineer** (DevOps & Tools) 2020 to 2026  
 Embedded within Tools Team to assist with architectural duties and build APIs that connect proprietary systems to
 Atlassian and other vendors' products. Transitioned to DevOps role as only true developer on Sys Admin team.
 - **DevOps Transformation:** Bridged the gap between Software Engineering and Systems Administration by
@@ -51,7 +51,7 @@ proprietary projects.
 - **Extensibility & Integration:** Authored a specialized suite of Node.js libraries and Node-RED nodes to automate
 full-lifecycle project provisioning via Atlassian APIs, creating a "self-service" ecosystem for developers.
 
-**Application Developer III** (Workflow Automation) 2017 to 2020
+**Application Developer III** (Workflow Automation) 2017 to 2020  
 Acted as team leader and lead architect for the Workflow Automation Team.
 - **Architectural Leadership:** Directed the development of a "First Principles" replacement for legacy SKU
 management, delivering a high-performance solution in 6 months that outpaced a decade of failed initiatives by
@@ -69,7 +69,7 @@ complexity, allowing for seamless state transitions between relational and non-r
 - **Extensible Tooling:** Prototyped and deployed the framework to internal high-value T-Mobile applications, proving
 a 10x reduction in "boilerplate" code for new service onboarding.
 
-**Product Development Engineer II** 2013 to 2017
+**Product Development Engineer II** 2013 to 2017  
 Transitioned from device testing into application development through hybrid role bridging both disciplines.
 - Authored early code for the Device Development and Certification requirements and test-plan database, laying
 groundwork for scalable documentation and testing.
@@ -78,7 +78,7 @@ teams could plan and prioritize work with greater accuracy.
 - Planned and prioritized weekly device onboarding for Slate platform, improving visibility and accelerating readiness
 across teams.
 
-**Technical Support Rep II** (Expiris Contractor) 2012 to 2013
+**Technical Support Rep II** (Expiris Contractor) 2012 to 2013  
 Developed, tested, and troubleshot XML scripts for SLATE platform, which retail stores use for automated device
 testing.
 - Wrote XML scripts for Slate automation testing of mobile devices.
