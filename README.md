@@ -1,5 +1,6 @@
 # Joshua Sternadel
-### Lead Systems Architect
+<!-- ### Lead Systems Architect -->
+### Pattern Seeking Whimsical Chaos Engineer
 **Kansas City, MO | [Contact via LinkedIn](https://linkedin.com)**
 
 A non-traditional engineer who approaches technical architecture without the bias of "industry-standard" stagnation
