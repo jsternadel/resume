@@ -3,3 +3,4 @@ plugins:
 - jekyll-remote-theme
 title: "{$js-resume}"
 description: ""
+show_downloads: true
