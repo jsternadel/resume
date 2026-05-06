@@ -50,3 +50,37 @@ and complex workflows from Jira Data Center to Jira Cloud, ensuring zero data lo
 proprietary projects.
 - **Extensibility & Integration:** Authored a specialized suite of Node.js libraries and Node-RED nodes to automate
 full-lifecycle project provisioning via Atlassian APIs, creating a "self-service" ecosystem for developers.
+
+**Application Developer III** (Workflow Automation) 2017 to 2020
+Acted as team leader and lead architect for the Workflow Automation Team.
+- **Architectural Leadership:** Directed the development of a "First Principles" replacement for legacy SKU
+management, delivering a high-performance solution in 6 months that outpaced a decade of failed initiatives by
+multiple cross-functional teams.
+- **System Reliability:** Owned and managed a complex 42-VM ecosystem, maintaining high availability and scalability
+for the Device and Technology Organization.
+- **Distributed Systems:** Co-architected "Porcupine," a custom message bus system enabling real-time, asynchronous
+communication between disparate enterprise applications.
+- **Intellectual Property:** Co-authored a U.S. Patent for a novel SQL data storage method, optimizing natural sorting
+algorithms for massive datasets.
+- **Architectural Framework Author:** Engineered a custom, data-agnostic PHP framework utilizing reflection and
+annotations to automate the CRUD lifecycle across disparate schemas (SQL, NoSQL, JSON, XML).
+- **Decoupled Data Hydration:** Developed a model-driven hydration engine that abstracted away storage-layer
+complexity, allowing for seamless state transitions between relational and non-relational data sources.
+- **Extensible Tooling:** Prototyped and deployed the framework to internal high-value T-Mobile applications, proving
+a 10x reduction in "boilerplate" code for new service onboarding.
+
+**Product Development Engineer II** 2013 to 2017
+Transitioned from device testing into application development through hybrid role bridging both disciplines.
+- Authored early code for the Device Development and Certification requirements and test-plan database, laying
+groundwork for scalable documentation and testing.
+- Advised Retail Department in weekly technical reviews, clarifying bugs, known issues, and system behaviors so
+teams could plan and prioritize work with greater accuracy.
+- Planned and prioritized weekly device onboarding for Slate platform, improving visibility and accelerating readiness
+across teams.
+
+**Technical Support Rep II** (Expiris Contractor) 2012 to 2013
+Developed, tested, and troubleshot XML scripts for SLATE platform, which retail stores use for automated device
+testing.
+- Wrote XML scripts for Slate automation testing of mobile devices.
+- Worked with OEM partners, troubleshooting issues with Slate Device Testing platform.
+
