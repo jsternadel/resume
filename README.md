@@ -37,3 +37,16 @@ achieved 99% coordinate accuracy in high interference environments.
 **Senior Software Engineer** (DevOps & Tools) 2020 to 2026
 Embedded within Tools Team to assist with architectural duties and build APIs that connect proprietary systems to
 Atlassian and other vendors' products. Transitioned to DevOps role as only true developer on Sys Admin team.
+- **DevOps Transformation:** Bridged the gap between Software Engineering and Systems Administration by
+implementing Infrastructure as Code (IaC) via Ansible, successfully reducing manual operational toil and human
+error. Drove lab data center’s vulnerability counts from 100+ per month to, at times, zero by implementing
+advanced Ansible workflows.
+- **Security & Governance as Code:** Engineered automated vulnerability remediation workflows that drove lab data
+center security debt from 100+ monthly criticals to zero, achieving a state of continuous compliance.
+- **Value Stream Mapping:** Optimized the VM lifecycle by automating the end-to-end onboarding process, significantly
+accelerating the "Lead Time to Deployment" for internal engineering teams.
+- **Legacy-to-Cloud Migration:** Architected and executed a high-integrity migration of a decade’s worth of metadata
+and complex workflows from Jira Data Center to Jira Cloud, ensuring zero data loss across mission-critical
+proprietary projects.
+- **Extensibility & Integration:** Authored a specialized suite of Node.js libraries and Node-RED nodes to automate
+full-lifecycle project provisioning via Atlassian APIs, creating a "self-service" ecosystem for developers.
