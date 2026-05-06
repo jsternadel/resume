@@ -9,13 +9,13 @@ Push past basic proficiency and commit to excellence in every solution delivered
 constantly refining systems to remove friction. Not just following existing patterns; but building new, frictionless 
 systems that prioritize efficiency, radical automation, and mission-critical stability.
 
-#### Core Competencies
+### Core Competencies
 Team Leadership | Systems Architecture | Solutions Engineering | Efficiency and Productivity Specialist
 
-#### Technical Skills
+### Technical Skills
 Java | C# | Redhat | Node.js | TypeScript | Angular | Ansible | DevOps | Automation
 
-#### Key Achievements
+### Key Achievements
 **Strategic Retention & Continuity:** Awarded a significant retention bonus during the Sprint/T-Mobile merger,
 designated as mission-critical personnel to ensure technical stability and architectural integration during the corporate
 transition.
@@ -31,7 +31,7 @@ by 18%.
 intermodal logistics. By deciphering raw NMEA 0183 sentences and applying spherical geometry with rate-ofacceleration modeling, 
 achieved 99% coordinate accuracy in high interference environments.
 
-#### Professional Experience
+### Professional Experience
 **T-MOBILE** (Formerly Sprint) | Overland Park, KS | 2013 to 2026
 
 **Senior Software Engineer** (DevOps & Tools) 2020 to 2026
