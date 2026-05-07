@@ -125,8 +125,10 @@ enterprise efficiency principles to humanitarian service.
 ### Education ###
 - Associate of Arts (AA), Graphic Design, Johnson County Community College, Overland Park, KS
 
-**Core Technical Index:** TypeScript, Node.js, JavaScript, PHP, C#, .NET 8, .NET Core, Java, Angular, Node-RED, Ansible,
-SQL, PostgreSQL, Jira API, Atlassian SDK, Systems Architecture, Microservices, Fluent API Design, API Gateway,
-Developer Experience (DevEx), Platform Abstractions, DevOps, CI/CD, Infrastructure as Code (IaC), Automation,
-DevSecOps, SRE, Distributed Systems, Spherical Geometry, Database Management (US Patent #10,366,066), Agile,
-Scrum, The Phoenix Project/Unicorn Project Philosophies.
+### Core Technical Index ###
+TypeScript | Node.js | JavaScript | PHP | C# | .NET 8 | .NET Core | Java | Angular | Node-RED | Ansible | SQL | 
+PostgreSQL | Jira API | Atlassian SDK | Systems Architecture | Microservices | Fluent API Design | API Gateway | 
+Developer Experience (DevEx) | Platform Abstractions | DevOps | CI/CD | Infrastructure as Code (IaC) | Automation | 
+DevSecOps | SRE | Distributed Systems | Spherical Geometry | Database Management (US Patent #10,366,066) | Agile | 
+Scrum | The Phoenix Project/Unicorn Project Philosophies | Principal Software Engineer | Solutions Architect | 
+Staff Systems Engineer | Platform Architect.
