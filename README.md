@@ -110,15 +110,15 @@ leveraged emerging technologies to find solutions for those needs.
 ### Community Impact & Leadership ###
 
 **Seek and Serve** | Founder | 2026-Present
-- Mission Support: Provide technical and logistical guidance to the parent 501(c)(3) organization, assisting in the
+- **Mission Support:** Provide technical and logistical guidance to the parent 501(c)(3) organization, assisting in the
 coordination of community outreach programs and resource allocation.
 
 **33meals.org** (Subsidiary of Seek and Serve) | Founder/Lead Volunteer | 2026-Present
-- Organizational Launch: Spearheaded the launch and incorporation of 33meals.org as a dedicated subsidiary to
+- **Organizational Launch:** Spearheaded the launch and incorporation of 33meals.org as a dedicated subsidiary to
 address food insecurity through scalable, data-driven, distribution models.
-- Operational Infrastructure: Managed the full technical and administrative setup, including domain
+- **Operational Infrastructure:** Managed the full technical and administrative setup, including domain
 registration, digital architecture, and regulatory filings to ensure high-integrity non-profit operations.
-- Strategic Development: Designed a streamlined logistics model to optimize charitable food delivery, applying
+- **Strategic Development:** Designed a streamlined logistics model to optimize charitable food delivery, applying
 enterprise efficiency principles to humanitarian service.
 
 ### Education ###
